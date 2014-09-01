@@ -19,5 +19,5 @@
 		else{
 			header("HTTP/1.0 Not Found");
 			exit("Pagina no encontrada");
-		}tesapsjfpasdf
+		}
 	}
