@@ -2,6 +2,6 @@
 	
 class HomeController{
 	public function indexAction(){
-		exit("probando");
+		return new View('home', array('titulo'=>'MejorandoPHP'));
 	}
 }
